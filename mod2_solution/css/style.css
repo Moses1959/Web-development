@@ -30,6 +30,14 @@ section {
   
 
 }
+
+/* when hovered */
+section:hover {
+  transition-duration: 1.2s;
+  font-size: 1.1em;
+  background-color: black;
+}
+
 #title-region1{
 	padding: 5px 30px 5px 30px; 
 	border: 1px solid black;
@@ -55,6 +63,8 @@ section {
 	float: right;
 
 }
+
+
 
 /* Simple Responsive Framework. */
 .row {
